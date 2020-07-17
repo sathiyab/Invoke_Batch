@@ -1,1 +1,1 @@
-java -jar LaunchBrowser.jar
+java -jar display.jar
